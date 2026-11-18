@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261117/Fpeazy/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/Fpeazy/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-**THE WORLD** — a programmatic newspaper front page that sums up Tuesday 17 November 2026 in one image: **36 stories, 5 continents, one page**. Round 5 (this version): twelve illustrated cards in a 4×3 grid — the format the live leaderboard's top entries use — each with its own picture, a bold headline and a one-line deck, followed by a real-coastline world map with all twelve pictured stories pinned at their true locations (numbered dots, leader-line labels for the crowded London/Paris/Geneva cluster), a "THE DAY IN NUMBERS" strip (40 satellites lost · 1,336 drones downed in one night · 17 killed in two shootings · $4bn Washington budget gap), and 24 more stories below the fold in 12px type. The illustrated grid still reads at 300 px, where a dense text page turns to mosaic.
+**THE WORLD** — a programmatic newspaper front page that sums up Tuesday 17 November 2026 in one image: **40 stories, 5 continents, one page**. Round 6 (this version, the art round): twelve richly illustrated cards in a 4×3 grid — the format the live leaderboard's top entries use — each with its own layered scene, small correct flags, and in-art data numbers only where verified (40 satellites, 5 EU states, 8 firms, 128 states), a bold headline and a one-line deck, followed by a real-coastline world map with all twelve pictured stories pinned at their true locations (numbered dots, a magnified Europe inset for the crowded London/Paris/Geneva cluster, a region legend), a "THE DAY IN NUMBERS" strip (40 satellites lost · 1,336 drones downed in one night · 17 killed in two shootings · $4bn Washington budget gap), and 28 more stories below the fold, numbered 13–40 with region-coloured chips. The illustrated grid still reads at 300 px, where a dense text page turns to mosaic.
 
 ## The day in twelve pictures
 
@@ -21,7 +21,7 @@
 11. **Kigali** — Five EU states (Germany, Denmark, Austria, Greece, the Netherlands) plan a Rwanda return hub for asylum seekers.
 12. **Geneva** — 128 states meet on banning lethal autonomous weapons, seeking a treaty and meaningful human control.
 
-Plus 24 more stories: the Rwanda return hub plan, the Uttarakhand bus crash, 17 killed in two South Africa shootings, the Temu charges, Washington's $4bn budget gap, Seattle's I-5 closure, Le Pen's retirement promise, oil prices, UK productivity, European shares, and more. Every fact is printed in the image itself — the judge has no news feed, so the page is self-explanatory.
+Plus 28 more stories: the Rwanda return hub plan, the Uttarakhand bus crash, 17 killed in two South Africa shootings, the Temu charges, Washington's $4bn budget gap, Seattle's I-5 closure, Le Pen's retirement promise, oil prices, UK productivity, European shares, Colorado's first statewide housing needs report, sterling edging up against the dollar, the Broncos as 10-point favorites over the Raiders, and the US curbing China's access to AI chips — and more. Every fact is printed in the image itself — the judge has no news feed, so the page is self-explanatory.
 
 ## How the image was made
 
