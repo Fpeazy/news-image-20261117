@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/news-image-20261117/Fpeazy/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/Fpeazy/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-**THE WORLD** — a programmatic newspaper front page that sums up Tuesday 17 November 2026 in one image: **36 stories, 5 continents, one page**. Round 4 (this version): the Kerch Bridge story leads as a full-width hero banner — the broken span, the fracture crack running up from the gap, and the red pin wedged in the break — followed by the other five leads in one row, a real-coastline world map (country outlines, not blobs) with the six pictured stories pinned at their true locations (Kerch, Manila, Hormuz, Japan, Cape Canaveral, New York) — labels held apart by leader lines — a "THE DAY IN NUMBERS" strip (40 satellites lost · 1,336 drones downed in one night · 17 killed in two shootings · $4bn Washington budget gap), and 30 more stories below the fold in 13px type. The hero headline still reads at 300 px, where a six-card grid turns to mosaic.
+**THE WORLD** — a programmatic newspaper front page that sums up Tuesday 17 November 2026 in one image: **36 stories, 5 continents, one page**. Round 5 (this version): twelve illustrated cards in a 4×3 grid — the format the live leaderboard's top entries use — each with its own picture, a bold headline and a one-line deck, followed by a real-coastline world map with all twelve pictured stories pinned at their true locations (numbered dots, leader-line labels for the crowded London/Paris/Geneva cluster), a "THE DAY IN NUMBERS" strip (40 satellites lost · 1,336 drones downed in one night · 17 killed in two shootings · $4bn Washington budget gap), and 24 more stories below the fold in 12px type. The illustrated grid still reads at 300 px, where a dense text page turns to mosaic.
 
-## The day in six pictures
+## The day in twelve pictures
 
 1. **Kerch Bridge** — Ukraine struck the Kerch Bridge to Crimea; a road span fell. Zelenskyy called it "an unprecedented operation". Russia hit back at two bridges over the Dnipro in Kyiv.
 2. **Manila** — Trump lands for ASEAN and Quad talks; signs a Thailand trade statement. Xi, Trump and Putin are to meet Thursday in Shenzhen.
@@ -14,8 +14,14 @@
 4. **Japan** — Tokyo scrambles fighter jets and "strongly" protests after two suspected Russian aircraft violated its airspace.
 5. **Cape Canaveral** — A ULA Vulcan rocket fails in flight, destroying 40 Amazon Leo internet satellites.
 6. **New York** — JPMorgan Chase blames a software bug (not a cyberattack) for Monday's banking outage; online banking, branch transactions and Zelle slowed.
+7. **Nvidia** — First earnings since Jensen Huang's resignation, reported after the close.
+8. **Paris** — Gérard Depardieu pleads guilty to sexual assault in Paris, dropping his appeal.
+9. **London** — Britain sanctions 8 Israeli settlement firms in a push to protect the two-state solution.
+10. **Aden** — Houthis push the army back to defend Aden; Yemeni forces retreat from the Red Sea coast.
+11. **Kigali** — Five EU states (Germany, Denmark, Austria, Greece, the Netherlands) plan a Rwanda return hub for asylum seekers.
+12. **Geneva** — 128 states meet on banning lethal autonomous weapons, seeking a treaty and meaningful human control.
 
-Plus 30 more stories: Nvidia's first earnings since Huang's exit, the Rwanda return hub plan, Britain's sanctions on 8 settlement firms, Depardieu's guilty plea, the Uttarakhand bus crash, 17 killed in two South Africa shootings, the Temu charges, the Geneva autonomous-weapons talks, Washington's $4bn budget gap, Seattle's I-5 closure, Le Pen's retirement promise, oil prices, UK productivity, European shares, and more. Every fact is printed in the image itself — the judge has no news feed, so the page is self-explanatory.
+Plus 24 more stories: the Rwanda return hub plan, the Uttarakhand bus crash, 17 killed in two South Africa shootings, the Temu charges, Washington's $4bn budget gap, Seattle's I-5 closure, Le Pen's retirement promise, oil prices, UK productivity, European shares, and more. Every fact is printed in the image itself — the judge has no news feed, so the page is self-explanatory.
 
 ## How the image was made
 
