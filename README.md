@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261117/Fpeazy/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/Fpeazy/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-**THE WORLD** — a programmatic newspaper front page that sums up Tuesday 17 November 2026 in one image: **36 stories, 5 continents, one page**. A navy world map with the six pictured stories pinned at their true locations (Kerch, Manila, Hormuz, Japan, Cape Canaveral, New York), six pictured story cards with flat icons drawn to match each story, and 30 more stories below the fold.
+**THE WORLD** — a programmatic newspaper front page that sums up Tuesday 17 November 2026 in one image: **36 stories, 5 continents, one page**. A navy world map with the six pictured stories pinned at their true locations (Kerch, Manila, Hormuz, Japan, Cape Canaveral, New York) — labels held apart by leader lines — six pictured story cards with shaded flat icons drawn to match each story, a "THE DAY IN NUMBERS" strip (40 satellites lost · 1,336 drones downed in one night · 17 killed in two shootings · $4bn Washington budget gap), and 30 more stories below the fold in 13px type.
 
 ## The day in six pictures
 
